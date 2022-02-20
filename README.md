@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# An Analysis of Kickstarter Campaigns
 
 *Analysis to uncover trends and budgets
 
