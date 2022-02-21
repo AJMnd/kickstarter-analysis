@@ -6,3 +6,5 @@ An analysis to uncover trends
 ![](/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ![](/Parent%20Category%20Outcomes.png)
+
+![](/Outcomes_vs_Goals.png)
