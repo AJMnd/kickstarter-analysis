@@ -34,7 +34,7 @@ decreases.
 
 ### Challenges and Difficulties Encountered
 
-Encountered some errors when formulating a fundraising goal. Discovered that not every campaign has backers. After, addressing the errors we were able to trim the data and eliminate what we don’t need. After establishing a successful season and budget to kick start a campaign. I would recommend narrowing down the subcategory with a line graph to visualize what subcategory is most successful. This will give you an idea of what genre to propose a successful campaign. 
+Encountered some errors when formulating a fundraising goal. Discovered that not every campaign has backers. After, addressing the errors we were able to trim the data and eliminate what we don’t need. After establishing a successful season and budget to kick start a campaign. I would recommend narrowing down the subcategory with a line graph to visualize what subcategory is most successful. This will give you an idea of what genre to propose a successful campaign. Lastly, there is no data on what may influence the success rate outside of the months of May and June. This can help Louise and future campaings be successful throught the year. 
 
 
 ## Results
