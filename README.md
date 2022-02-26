@@ -3,8 +3,7 @@ An analysis to uncover trends
 
 *Analysis to uncover trends and budgets for future campaings
 
-![](/Outcomes%20Based%20on%20Launch%20Date.png)
+![](/Theater_Outcomes_vs_Launch.png.)
 
-![](/Parent%20Category%20Outcomes.png)
 
 ![](/Outcomes_vs_Goals.png)
